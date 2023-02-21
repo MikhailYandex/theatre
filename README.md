@@ -2,7 +2,7 @@
 
 [Ссылка на Github Pages](https://mikhailyandex.github.io/theatre/)
 
-https://user-images.githubusercontent.com/114576286/220308586-19499990-87c8-4543-8ce1-0c182efd2f22.png
+<img width="1503" alt="Theatre" src="https://user-images.githubusercontent.com/114576286/220308586-19499990-87c8-4543-8ce1-0c182efd2f22.png">
 
 ### Используемые технологии
 * HTML5
