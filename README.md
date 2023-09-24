@@ -4,7 +4,7 @@
 
 <img width="1503" alt="Theatre" src="https://user-images.githubusercontent.com/114576286/220308586-19499990-87c8-4543-8ce1-0c182efd2f22.png">
 
-### Используемые технологии
+### Используемые технологии:
 * HTML5;
 * CSS3/SCSS;
 * Javascript;
